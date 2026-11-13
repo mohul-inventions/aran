@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="500" height="80" viewBox="0 0 500 80" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title">
+  <title id="title">ARAN Horizontal Logo</title>
+  <!-- Shield Emblem (scaled) -->
+  <g transform="translate(0,10)">
+    <path d="M30 0 L55 15 L45 80 L15 80 L5 15 Z" fill="none" stroke="#00E5FF" stroke-width="4"/>
+    <circle cx="30" cy="40" r="5" fill="#318BFF"/>
+    <circle cx="20" cy="25" r="3" fill="#00E5FF"/>
+    <circle cx="40" cy="25" r="3" fill="#00E5FF"/>
+    <circle cx="15" cy="55" r="3" fill="#00E5FF"/>
+    <circle cx="45" cy="55" r="3" fill="#00E5FF"/>
+    <circle cx="28" cy="70" r="3" fill="#00E5FF"/>
+    <circle cx="32" cy="70" r="3" fill="#00E5FF"/>
+    <circle cx="30" cy="10" r="3" fill="#00E5FF"/>
+  </g>
+  <!-- Wordmark -->
+  <text x="80" y="45" font-family="'Space Grotesk', sans-serif" font-size="36" fill="#EAF3FF" letter-spacing="1">ARAN</text>
+  <text x="80" y="68" font-family="'Inter', sans-serif" font-size="14" fill="#00E5FF">AUTONOMOUS RESCUE &amp; ASSISTANCE NETWORK</text>
+</svg>

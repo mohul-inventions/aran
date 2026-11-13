@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="240" viewBox="0 0 200 240" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
+  <title id="title">ARAN Emblem</title>
+  <!-- Shield shape -->
+  <path d="M100 0 L170 45 L150 210 L50 210 L30 45 Z" fill="none" stroke="#00E5FF" stroke-width="8"/>
+  <!-- Central signal -->
+  <circle cx="100" cy="120" r="12" fill="#318BFF"/>
+  <!-- Network nodes -->
+  <circle cx="70" cy="80" r="6" fill="#00E5FF"/>
+  <circle cx="130" cy="80" r="6" fill="#00E5FF"/>
+  <circle cx="55" cy="150" r="6" fill="#00E5FF"/>
+  <circle cx="145" cy="150" r="6" fill="#00E5FF"/>
+  <circle cx="85" cy="190" r="6" fill="#00E5FF"/>
+  <circle cx="115" cy="190" r="6" fill="#00E5FF"/>
+  <circle cx="100" cy="50" r="6" fill="#00E5FF"/>
+</svg>
