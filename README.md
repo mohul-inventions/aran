@@ -2,7 +2,7 @@
 
 > **"When Chaos Rises, ARAN Responds."**  
 > *Every Signal Matters. Every Life Counts.*  
-> **Team:** NaalvarX | **Event:** K! Hacks 4.0 — Anna University, Chennai
+> **Team:** NaalvarX
 
 ---
 
@@ -103,6 +103,6 @@ The compiled production bundle will be generated in the `dist/` directory.
 
 ## 👥 Team NaalvarX
 
-Developed with pride for **K! Hacks 4.0** by **Team NaalvarX**.
+Architected and developed by **Team NaalvarX**.
 
 > *"When Chaos Rises, ARAN Responds."*

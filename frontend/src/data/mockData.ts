@@ -187,7 +187,7 @@ export const INITIAL_RESOURCES: RescueResource[] = [
     crewCount: 2,
     capacity: 0,
     fuelBattery: 88,
-    baseStation: 'Anna University Tech Hub',
+    baseStation: 'Central Emergency Staging Hub',
   },
   {
     id: 'RES-06',
